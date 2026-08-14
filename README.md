@@ -1,4 +1,4 @@
-# GitHub Todos
+# ghi-pool
 
 Aggregate open GitHub issues (public + private) from repos you own. Hosted as an Astro app on Cloudflare Workers, protected by Cloudflare Access — no custom login code.
 
