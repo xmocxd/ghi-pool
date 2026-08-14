@@ -14,6 +14,8 @@ git repo for code ideas — md
 
 code idea bot that takes in @ messages and posts to git repo 
 
+git repo for todo general / research / tech tasks?
+
 ----
 
 Aggregate open GitHub issues (public + private) from repos you own. Hosted as an Astro app on Cloudflare Workers, protected by Cloudflare Access — no custom login code.
