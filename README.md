@@ -1,5 +1,21 @@
 # ghi-pool
 
+----
+
+## TODO / NOTES
+
+documentation walkthru for issues aggregator 
+
+add feature to just see all repos — public / private color coded (“show all”)
+
+ability to add / change status / close out issue from dashboard 
+
+git repo for code ideas — md
+
+code idea bot that takes in @ messages and posts to git repo 
+
+----
+
 Aggregate open GitHub issues (public + private) from repos you own. Hosted as an Astro app on Cloudflare Workers, protected by Cloudflare Access — no custom login code.
 
 ## Stack
